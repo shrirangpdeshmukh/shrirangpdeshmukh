@@ -6,4 +6,4 @@
 
 - 🔭 I’m currently exploring full-stack development
 - 🙂 I’m looking to collaborate for web-developement projects.    
-- 📫 Reach me at: [deshmukhshrirang01@gmail.com](mailto:deshmukhshrirang01@gmail.com) | [LinkedIn](https://www.linkedin.com/in/shrirang-deshmukh/)
+- 📫 Reach me at: [Email](mailto:deshmukhshrirang01@gmail.com) | [LinkedIn](https://www.linkedin.com/in/shrirang-deshmukh/)
